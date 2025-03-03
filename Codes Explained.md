@@ -13,3 +13,7 @@ Darkening Code: This code simply darkens all the images to two degrees. You can 
 
 Shufflng code: This code shuffles all your train and valid images and splits them into a defined ratio. I used this when testing various train-to-valid ratios
 
+Precision Code: Both Precision codes print the number of true positives, false positives and false negatives as well as calculate precision, recall and F1 score. The only difference between the two is the number of classes in your YAMl file.
+
+Train YOLO: this code is the code i used to train my yolo model. You can change the pretrained model.
+
